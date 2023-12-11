@@ -12,6 +12,7 @@ You can download and inspect our results directly [here](https://github.com/Moem
 6) Run [preprocess.py](https://github.com/MoemenGaafar/fMRI-Sentiment-Prediction/blob/main/preprocess.py) with either argument "EN" or "FR" to preprocess and save ROI data to disk.
 7) Run [train.py](https://github.com/MoemenGaafar/fMRI-Sentiment-Prediction/blob/main/train.py) which takes two arguments corresponding to the train and test languages. This replicates the LOSO study results.
 8) Run [train_per_subject.py](https://github.com/MoemenGaafar/fMRI-Sentiment-Prediction/blob/main/train_per_subject.py) which takes one arguments corresponding to the train and test language. This replicates the per-subject study results.
+9) Run [analysis.ipynb](https://github.com/MoemenGaafar/fMRI-Sentiment-Prediction/blob/main/analysis.ipynb) to run statistical tests and plot the results.
 
 # General Notes
 1) All files have references to file paths. You need to change these references to where you saved your data.
